@@ -1,0 +1,6 @@
+{
+  "name": "Store Rating System",
+  "description": "A web application for submitting store ratings, managing store directories, and viewing analytics with role-based dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
